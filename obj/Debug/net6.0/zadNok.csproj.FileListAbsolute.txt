@@ -1,0 +1,15 @@
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\bin\Debug\net6.0\zadNok.exe
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\bin\Debug\net6.0\zadNok.deps.json
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\bin\Debug\net6.0\zadNok.runtimeconfig.json
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\bin\Debug\net6.0\zadNok.dll
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\bin\Debug\net6.0\zadNok.pdb
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.csproj.AssemblyReference.cache
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.AssemblyInfoInputs.cache
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.AssemblyInfo.cs
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.csproj.CoreCompileInputs.cache
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.dll
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\refint\zadNok.dll
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.pdb
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\zadNok.genruntimeconfig.cache
+C:\Users\Svg\source\repos\12dASDDDD\zadNok\obj\Debug\net6.0\ref\zadNok.dll
